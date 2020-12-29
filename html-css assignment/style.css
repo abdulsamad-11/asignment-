@@ -1,0 +1,95 @@
+
+.circle {
+    
+    display: inline-block;
+    padding: 10px;    
+    margin-left: 8px;
+    margin-top: 19px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    font-size: 10px;
+    color: #fff;
+    background:rgba(144, 134, 134, 0.5);
+    
+  }
+  .cont {
+      display: inline-block;
+      margin-left: 260px;
+      margin-top: 20px;
+  }
+  .button {
+      display: inline-block;
+      background-color: hsla(90, 68%, 53%, 0.87);
+      color: black;
+      border-radius: 6px;
+  }
+   .menu {
+       
+       display: inline-block;
+       text-size-adjust: 10px;
+       margin-left: 25px;
+       margin-top: 50px;       
+       
+   }
+
+   .bgim {
+       background-image: url(airwaves16.png); 
+       width: 1140px;
+       height: 550px;       
+       display: inline-block;
+   }
+   
+
+
+   .manheading {
+    display: inline-block;
+    text-decoration: none;
+    
+    
+    
+}
+
+    h1 {
+       
+       text-align: center;
+       color: white;
+       margin-top: 140px;
+       padding-right: 35px;
+       padding-left: 33px;
+       
+   }
+
+   p {
+       
+    text-align: center;
+    color: white; 
+   }
+    
+   .botton {
+       background-color: yellow;
+       margin-left: 470px;
+       color: black;
+       width: 200px;
+       height: 50px;
+       border-radius: 8px;
+       margin-top: 10px;
+   }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
