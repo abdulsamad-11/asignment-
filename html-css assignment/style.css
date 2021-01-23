@@ -33,18 +33,19 @@
        
    }
 
-   .bgim {
+    .bgim {
        background-image: url(airwaves16.png); 
        width: 1140px;
        height: 550px;       
        display: inline-block;
    }
-   
+    
 
 
    .manheading {
     display: inline-block;
     text-decoration: none;
+    
     
     
     
@@ -54,7 +55,7 @@
        
        text-align: center;
        color: white;
-       margin-top: 140px;
+       margin-top: 170px;
        padding-right: 35px;
        padding-left: 33px;
        
